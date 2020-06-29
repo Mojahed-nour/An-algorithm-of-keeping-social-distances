@@ -1,5 +1,5 @@
 
-A basic algorithm of Social Distancing in crowded areas
+A basic algorithm of keeping Social Distancing in crowded areas
 
 
 -The technique used:
