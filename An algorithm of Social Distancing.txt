@@ -3,14 +3,16 @@ A basic algorithm of Social Distancing in crowded areas
 
 
 -The technique used:
+Android smart-phones.
 bluetooth beacons.
-android smart-phones.
+
+
 
 
 -How does this technique work ?
-In each EchoBeacon are set, through the provided App, several parameters, including: the size of the area , 
+In each system are set, through the provided App, several parameters, including: the size of the area , 
 the timeframe and the number of Persons/Beacons allowed to be in the area in the same time; if these parameters are exceeded, 
-the relay connected to an optical/acoustic alarm is activated in real-time & it could also send a notification in the app to the people to warn them
+the relay connected to an optical alarm is activated in real-time & it could also send a notification through the app to the people to warn them
  to keep the social Distancing allowed when they do not follow it.
 
 
